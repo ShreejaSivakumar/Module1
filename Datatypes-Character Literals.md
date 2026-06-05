@@ -1,4 +1,4 @@
-<img width="423" height="147" alt="image" src="https://github.com/user-attachments/assets/e346ce80-9d1d-4574-9130-c9f5f5292db4" /># Datatypes-Character Literal in Python
+# Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
